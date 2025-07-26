@@ -43,7 +43,6 @@
 🎮 Snake Game on My GitHub Contributions
 
 🔗 **[Play the Game Live](https://sumitpodder.github.io/Profile/)**  
-📂 Source code: [`/snake-game`](./snake-game)
 
 ---
 
