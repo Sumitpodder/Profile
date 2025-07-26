@@ -42,7 +42,7 @@
 
 🎮 Snake Game on My GitHub Contributions
 
-![Snake Preview](https://github.com/sumitpodder/snake-game/raw/main/assets/snake-preview.gif)
+![Snake Preview](https://github.com/sumitpodder/Profile/raw/main/assets/snake-preview.gif)
 🔗 **[Play the Game Live](https://sumitpodder.github.io/Profile/)**  
 📂 Source code: [`/snake-game`](./snake-game)
 
